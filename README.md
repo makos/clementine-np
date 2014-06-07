@@ -3,6 +3,7 @@
 Small sh script that prints currently playing song from Clementine music player.
 
 Usage:
+
 ./np - prints artist, track and album
 
 ./np -n - prints artist and track, without album
