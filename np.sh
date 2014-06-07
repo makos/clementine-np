@@ -17,7 +17,7 @@ while getopts ":n" opt; do
             exit 0
             ;;
         \?)
-            echo 'error'
+            echo 'Usage: ./np [-n]'
             exit 1
             ;;
     esac
