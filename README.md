@@ -1,4 +1,4 @@
-## Clementine Music Player shell np script
+### Clementine Music Player shell np script
 
 Small sh script that prints currently playing song from Clementine music player.
 
