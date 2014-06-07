@@ -2,7 +2,7 @@
 
 Small sh script that prints currently playing song from Clementine music player.
 
-Usage:
+#### Usage:
 
 ./np - prints artist, track and album
 
@@ -10,3 +10,5 @@ Usage:
 
 To use with irssi (or possibly another IRC client that supports executing shell scripts from within)
 read the source comments.
+
+Don't forget to chmod 755 np.sh and optionally hardlink it into your $PATH for easy use.
